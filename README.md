@@ -1,10 +1,15 @@
 ### Hi there 👋
 I'm Mohamed! 
 
-Cybersecurity Professional and DevOps
+Passionate about Tech 🤖
 
+Cybersecurity and DevOps Enthusiast 🛡️☁️🔒
 
-<h2>👨‍💻 Azure DevOps Projects:</h2>
+I'm always looking to learn more and improve my skills. I'm particularly interested in cloud security and DevSecOps, and I'm excited about the potential that these areas offer for improving the security of our digital world.
+
+<h2>🔍 Current Projects: </h2>
+
+<h2>👨‍💻 Azure Projects:</h2>
 
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
@@ -29,13 +34,8 @@ Cybersecurity Professional and DevOps
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
-<h2>📺 YouTube Videos I used to learn! </h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-
+🤝 I'm always open to connecting with others who share my passion for cybersecurity and DevOps. Feel free to reach out and say hello!
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -57,6 +57,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
