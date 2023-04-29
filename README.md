@@ -7,6 +7,17 @@ Cybersecurity and DevOps Enthusiast 🛡️☁️🔒
 
 I'm always looking to learn more and improve my skills. I'm particularly interested in cloud security and DevSecOps, and I'm excited about the potential that these areas offer for improving the security of our digital world.
 
+<h2>👨🏽‍🎓 Education</h2>
+
+- Bachelor's in Engineering
+
+<h2>📜 Certifications</h2>
+
+- Microsoft Certified: Azure Fundamentals
+- Microsoft Certified: Security, Compliance, and Identity Fundamentals
+- Cisco: CCNA
+- CompTIA: Security+ (Exam Pending)
+
 <h2>🔍 Current Projects: </h2>
 
 <h2>👨‍💻 Azure Projects:</h2>
@@ -23,16 +34,11 @@ I'm always looking to learn more and improve my skills. I'm particularly interes
   - [Microsoft Sentinel Live Attack Lab](https://github.com/Mohamedj2022/Microsoft-Sentinel-Live-Attack-Demo)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   
 
 🤝 I'm always open to connecting with others who share my passion for cybersecurity and DevOps. Feel free to reach out and say hello!
 
 <h2> 🤳 Connect with me:</h2>
-
-[LinkedIn]: https://www.linkedin.com/in/mohamed-j22/
 
 - 🔭 I’m currently working on Azure and Cybersecurity projects
 - 🌱 I’m currently learning DevOps and cloud security
@@ -40,3 +46,5 @@ I'm always looking to learn more and improve my skills. I'm particularly interes
 - 📫 How to reach me: LinkedIn
 - ⚡ Fun fact: Data is more valuable than you think!
 -->
+
+- [LinkedIn](https://www.linkedin.com/in/mohamed-j22/)
