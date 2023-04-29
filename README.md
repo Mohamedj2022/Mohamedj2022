@@ -32,8 +32,7 @@ I'm always looking to learn more and improve my skills. I'm particularly interes
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Mohamed Jama | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[linkedin]: https://www.linkedin.com/in/mohamed-j22/
+[LinkedIn]: https://www.linkedin.com/in/mohamed-j22/
 
 - 🔭 I’m currently working on Azure and Cybersecurity projects
 - 🌱 I’m currently learning DevOps and cloud security
